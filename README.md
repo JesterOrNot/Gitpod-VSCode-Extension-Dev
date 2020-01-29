@@ -12,4 +12,4 @@ Repository: https://github.com/JesterOrNot/Gitpod-VSCode-Extension-Dev-Example
 1. Use the .gitpod.yml and .gitpod.Dockerfile in your repository
 2. After Gitpod starts open port 6080 in the browser
 3. Have fun testing your extension in VSCode!
-![](https://github.com/JesterOrNot/Gitpod-VSCode-Extension-Dev/blob/master/assets/example.gif?raw=true)
+![](https://github.com/JesterOrNot/Gitpod-VSCode-Extension-Dev-Example/blob/master/assets/example.gif?raw=true)
